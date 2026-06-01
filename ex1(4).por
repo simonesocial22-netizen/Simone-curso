@@ -12,7 +12,7 @@ programa {
        caracter cnh
 
 
-    escreva("Digite o nome da pessoa: \n")
+    escreva("Digite o nome da " , contador , "° pessoa: \n")
     leia(nome)
 
     escreva("Digite a idade " ,nome, "\n")
