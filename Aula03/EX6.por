@@ -18,7 +18,7 @@ programa {
     senao se(temperatura <37 e sintomas =="N") {
       escreva("Liberado")
     }
-    senao se(sintomas != "S" ou  sitomas "N") {
+    senao se(sintomas != "S" ou  sitomas != "N") {
       escreva("erro")
     }
   }
