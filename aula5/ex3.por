@@ -14,7 +14,7 @@ programa {
     escreva("Quantos clientes deseja cadastrar ? ")
     leia(clientes)
 
-    para(i=1;<= clientes; i;++){
+    para(inteiro i = 1;<= clientes; 1++){
 
       escreva(" cientes", i , "\n")
       escreva("Tipo de midia (radio/tv/revista/outdoor) :")
